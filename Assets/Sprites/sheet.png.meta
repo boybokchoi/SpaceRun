@@ -1,0 +1,261 @@
+fileFormatVersion: 2
+guid: 8e78047c3cd6b334ea9cfec72f963ddc
+timeCreated: 1458224351
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AlienShip
+    21300002: sheet_1
+    21300004: sheet_2
+    21300006: sheet_3
+    21300008: sheet_4
+    21300010: sheet_5
+    21300012: sheet_6
+    21300014: Beam
+    21300016: sheet_8
+    21300018: PlayerShip
+    21300020: sheet_10
+    21300022: pill
+    21300024: rock1
+    21300026: rock2
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -2
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: AlienShip
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 531
+        width: 79
+        height: 84
+      alignment: 9
+      pivot: {x: 0.49999923, y: 0.5564452}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.49994, y: 37.258606}
+        - {x: -39.49994, y: -37.741394}
+        - {x: -15.499939, y: -46.741394}
+        - {x: 25.500061, y: -46.741394}
+        - {x: 39.50006, y: -29.741394}
+        - {x: 39.50006, y: 30.258606}
+        - {x: 34.50006, y: 37.258606}
+    - name: Beam
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 659
+        width: 12
+        height: 55
+      alignment: 9
+      pivot: {x: 0.42746988, y: 0.5755593}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.49994, y: 37.258606}
+        - {x: -39.49994, y: -37.741394}
+        - {x: -15.499939, y: -46.741394}
+        - {x: 25.500061, y: -46.741394}
+        - {x: 39.50006, y: -29.741394}
+        - {x: 39.50006, y: 30.258606}
+        - {x: 34.50006, y: 37.258606}
+        - {x: -39.49994, y: 37.258606}
+        - {x: -39.49994, y: -37.741394}
+        - {x: -15.499939, y: -46.741394}
+        - {x: 25.500061, y: -46.741394}
+        - {x: 39.50006, y: -29.741394}
+        - {x: 39.50006, y: 30.258606}
+        - {x: 34.50006, y: 37.258606}
+      - - {x: -39.49994, y: 37.258606}
+        - {x: -39.49994, y: -37.741394}
+        - {x: -15.499939, y: -46.741394}
+        - {x: 25.500061, y: -46.741394}
+        - {x: 39.50006, y: -29.741394}
+        - {x: 39.50006, y: 30.258606}
+        - {x: 34.50006, y: 37.258606}
+    - name: PlayerShip
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 111
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 41}
+        - {x: -55.5, y: 10}
+        - {x: -55.5, y: -12}
+        - {x: -44.5, y: -35}
+        - {x: 44.5, y: -35}
+        - {x: 55.5, y: -28}
+        - {x: 55.5, y: 6}
+        - {x: 18.5, y: 41}
+    - name: pill
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 895
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.49994, y: 37.258606}
+        - {x: -39.49994, y: -37.741394}
+        - {x: -15.499939, y: -46.741394}
+        - {x: 25.500061, y: -46.741394}
+        - {x: 39.50006, y: -29.741394}
+        - {x: 39.50006, y: 30.258606}
+        - {x: 34.50006, y: 37.258606}
+        - {x: -39.49994, y: 37.258606}
+        - {x: -39.49994, y: -37.741394}
+        - {x: -15.499939, y: -46.741394}
+        - {x: 25.500061, y: -46.741394}
+        - {x: 39.50006, y: -29.741394}
+        - {x: 39.50006, y: 30.258606}
+        - {x: 34.50006, y: 37.258606}
+        - {x: -39.49994, y: 37.258606}
+        - {x: -39.49994, y: -37.741394}
+        - {x: -15.499939, y: -46.741394}
+        - {x: 25.500061, y: -46.741394}
+        - {x: 39.50006, y: -29.741394}
+        - {x: 39.50006, y: 30.258606}
+        - {x: 34.50006, y: 37.258606}
+        - {x: -39.49994, y: 37.258606}
+        - {x: -39.49994, y: -37.741394}
+        - {x: -15.499939, y: -46.741394}
+        - {x: 25.500061, y: -46.741394}
+        - {x: 39.50006, y: -29.741394}
+        - {x: 39.50006, y: 30.258606}
+        - {x: 34.50006, y: 37.258606}
+      - - {x: -39.49994, y: 37.258606}
+        - {x: -39.49994, y: -37.741394}
+        - {x: -15.499939, y: -46.741394}
+        - {x: 25.500061, y: -46.741394}
+        - {x: 39.50006, y: -29.741394}
+        - {x: 39.50006, y: 30.258606}
+        - {x: 34.50006, y: 37.258606}
+        - {x: -39.49994, y: 37.258606}
+        - {x: -39.49994, y: -37.741394}
+        - {x: -15.499939, y: -46.741394}
+        - {x: 25.500061, y: -46.741394}
+        - {x: 39.50006, y: -29.741394}
+        - {x: 39.50006, y: 30.258606}
+        - {x: 34.50006, y: 37.258606}
+        - {x: -39.49994, y: 37.258606}
+        - {x: -39.49994, y: -37.741394}
+        - {x: -15.499939, y: -46.741394}
+        - {x: 25.500061, y: -46.741394}
+        - {x: 39.50006, y: -29.741394}
+        - {x: 39.50006, y: 30.258606}
+        - {x: 34.50006, y: 37.258606}
+      - - {x: -39.49994, y: 37.258606}
+        - {x: -39.49994, y: -37.741394}
+        - {x: -15.499939, y: -46.741394}
+        - {x: 25.500061, y: -46.741394}
+        - {x: 39.50006, y: -29.741394}
+        - {x: 39.50006, y: 30.258606}
+        - {x: 34.50006, y: 37.258606}
+        - {x: -39.49994, y: 37.258606}
+        - {x: -39.49994, y: -37.741394}
+        - {x: -15.499939, y: -46.741394}
+        - {x: 25.500061, y: -46.741394}
+        - {x: 39.50006, y: -29.741394}
+        - {x: 39.50006, y: 30.258606}
+        - {x: 34.50006, y: 37.258606}
+      - - {x: -39.49994, y: 37.258606}
+        - {x: -39.49994, y: -37.741394}
+        - {x: -15.499939, y: -46.741394}
+        - {x: 25.500061, y: -46.741394}
+        - {x: 39.50006, y: -29.741394}
+        - {x: 39.50006, y: 30.258606}
+        - {x: 34.50006, y: 37.258606}
+    - name: rock1
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 477
+        width: 97
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline:
+      - - {x: 29.5, y: 47}
+        - {x: -8.5, y: 47}
+        - {x: -43.5, y: 40}
+        - {x: -48.5, y: 22}
+        - {x: -48.5, y: -18}
+        - {x: -45.5, y: -28}
+        - {x: -24.5, y: -47}
+        - {x: 35.5, y: -47}
+        - {x: 48.5, y: -13}
+        - {x: 48.5, y: 29}
+    - name: rock2
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 277
+        width: 101
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.5, y: 41}
+        - {x: -50.5, y: 9}
+        - {x: -50.5, y: -21}
+        - {x: -30.5, y: -41}
+        - {x: 43.5, y: -41}
+        - {x: 50.5, y: -21}
+        - {x: 50.5, y: 26}
+        - {x: 31.5, y: 41}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
